@@ -14,7 +14,6 @@ struct mystack{
     void pop(){ t--;}
     int empty(){ return t ==0?1:0;}
 }st;
-// stack<int> st;
 int h[N],a[N];
 int main(){
     int n; scanf("%d",&n);
