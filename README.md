@@ -75,6 +75,57 @@
 | 搜索 | [3_5_3_1.cpp](https://github.com/xasmall/algorithm/tree/master/search/3_5_3_1.cpp) |   双向bfs | 无 |
 | 搜索 | [3_8_5_1.cpp](https://github.com/xasmall/algorithm/tree/master/search/3_8_5_1.cpp) |   A star搜索 | poj 1945 |
 
+#### 高级数据结构
+<br>
+
+| 所属部分 | 具体链接 | 分类 | 题目链接 |
+| :----    | :----     | :---- | :---- |
+| 高级数据结构 | [4_1_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_1_1_1.cpp) |  并查集  | [hdu 1213](https://acm.hdu.edu.cn/showproblem.php?pid=1213)|
+| 高级数据结构 | [4_1_4_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_1_4_1.cpp) |  带权并查集  | [hdu 3038](https://acm.hdu.edu.cn/showproblem.php?pid=3038)|
+| 高级数据结构 | [4_1_4_2.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_1_4_2.cpp) |  带权并查集  | 食物链 |
+| 高级数据结构 | [4_2_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_2_1_1.cpp) |  树状数组  | 无 |
+| 高级数据结构 | [4_2_2_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_2_2_1.cpp) |  树状数组  | [hdu 1556](https://acm.hdu.edu.cn/showproblem.php?pid=1556) |
+| 高级数据结构 | [4_2_2_2.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_2_2_2.cpp) |  树状数组  | [洛谷P3372](https://www.luogu.com.cn/problem/P3372) |
+| 高级数据结构 | [4_2_3_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_2_3_1.cpp) |  树状数组计算逆序对  | 无 |
+| 高级数据结构 | [4_3_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_1_1.cpp) |  线段树  | 无 |
+| 高级数据结构 | [4_3_4_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_4_1.cpp) |  线段树  | [hdu 4027](https://acm.hdu.edu.cn/showproblem.php?pid=4027) |
+| 高级数据结构 | [4_3_4_2.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_4_2.cpp) |  线段树+二分  | [hdu 4614](https://acm.hdu.edu.cn/showproblem.php?pid=4614) |
+| 高级数据结构 | [4_3_5_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_5_1.cpp) |  线段树，区间修改最值  | [hdu 5306](https://acm.hdu.edu.cn/showproblem.php?pid=5306) |
+| 高级数据结构 | [4_3_7_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_7_1.cpp) | 扫描线  | [hdu 1542](https://acm.hdu.edu.cn/showproblem.php?pid=1542) |
 
 
+### 其他部分
+#### codeforces
+<br>
 
+| 所属部分 | 具体链接 | 分类 | 题目链接 |
+| :----    | :----     | :---- | :---- |
+| codeforces | [1679B.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1679B.java) | 哈希表  | [1679B](https://codeforces.com/problemset/problem/1679/B) |
+| codeforces | [1681C.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1681C.java) | 排序  | [1681C](https://codeforces.com/problemset/problem/1681/C) |
+| codeforces | [1692E.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1692E.java) | 二分  | [1692E](https://codeforces.com/problemset/problem/1692/E) |
+| codeforces | [1692F.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1692F.java) | 数学  | [1692F](https://codeforces.com/problemset/problem/1692/F) |
+| codeforces | [1693A.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1693A.java) | 贪心  | [1693A](https://codeforces.com/problemset/problem/1693/A) |
+| codeforces | [1694B.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1694B.java) | 贪心  | [1694B](https://codeforces.com/problemset/problem/1694/B) |
+| codeforces | [1698C.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1698C.java) | 暴力  | [1698C](https://codeforces.com/problemset/problem/1698/C) |
+| codeforces | [1703E.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1703E.java) | 模拟  | [1703E](https://codeforces.com/problemset/problem/1703/E) |
+| codeforces | [1703F.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1703F.java) | 二分+贪心  | [1703F](https://codeforces.com/problemset/problem/1703/F) |
+| codeforces | [1704C.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1704C.java) | 贪心  | [1704C](https://codeforces.com/problemset/problem/1704/C) |
+| codeforces | [1711B.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1711B.java) | 图论  | [1711B](https://codeforces.com/problemset/problem/1711/B) |
+| codeforces | [1713C.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1713C.java) | dp  | [1713C](https://codeforces.com/problemset/problem/1713/C) |
+| codeforces | [1720A.java](https://github.com/xasmall/algorithm/tree/master/codeforces/1720A.java) | 数学  | [1720A](https://codeforces.com/problemset/problem/1720/A) |
+| codeforces | [1720B.go](https://github.com/xasmall/algorithm/tree/master/codeforces/1720B.go) | 贪心  | [1720B](https://codeforces.com/problemset/problem/1720/B) |
+
+
+#### 洛谷
+<br>
+
+| 所属部分 | 具体链接 | 分类 | 题目链接 |
+| :----    | :----     | :---- | :---- |
+| 洛谷 | [P1030.cpp](https://github.com/xasmall/algorithm/tree/master/luogu/P1030.cpp) | DFS  | [洛谷P1030](https://www.luogu.com.cn/problem/P1030) |
+| 洛谷 | [P1087.cpp](https://github.com/xasmall/algorithm/tree/master/luogu/P1087.cpp) | 分治(递归)  | [洛谷P1087](https://www.luogu.com.cn/problem/P1087) |
+| 洛谷 | [P1118.cpp](https://github.com/xasmall/algorithm/tree/master/luogu/P1118.cpp) | DFS  | [洛谷P1118](https://www.luogu.com.cn/problem/P1118) |
+| 洛谷 | [P1440.cpp](https://github.com/xasmall/algorithm/tree/master/luogu/P1440.cpp) | RMQ  | [洛谷P1440](https://www.luogu.com.cn/problem/P1440) |
+| 洛谷 | [P2880.cpp](https://github.com/xasmall/algorithm/tree/master/luogu/P2880.cpp) | RMQ  | [洛谷P2880](https://www.luogu.com.cn/problem/P2880) |
+| 洛谷 | [P3378_stl.cpp](https://github.com/xasmall/algorithm/tree/master/luogu/P3378_stl.cpp) | 堆  | [洛谷P3378](https://www.luogu.com.cn/problem/P3378) |
+| 洛谷 | [P3378.cpp](https://github.com/xasmall/algorithm/tree/master/luogu/P3378.cpp) | 堆  | [洛谷P3378](https://www.luogu.com.cn/problem/P3378) |
+| 洛谷 | [P3865.cpp](https://github.com/xasmall/algorithm/tree/master/luogu/P3865.cpp) | ST表  | [洛谷P3865](https://www.luogu.com.cn/problem/P3865) |
