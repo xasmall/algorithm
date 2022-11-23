@@ -92,6 +92,8 @@
 | 高级数据结构 | [4_3_4_2.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_4_2.cpp) |  线段树+二分  | [hdu 4614](https://acm.hdu.edu.cn/showproblem.php?pid=4614) |
 | 高级数据结构 | [4_3_5_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_5_1.cpp) |  线段树，区间修改最值  | [hdu 5306](https://acm.hdu.edu.cn/showproblem.php?pid=5306) |
 | 高级数据结构 | [4_3_7_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_7_1.cpp) | 扫描线  | [hdu 1542](https://acm.hdu.edu.cn/showproblem.php?pid=1542) |
+| 高级数据结构 | [4_3_7_2.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_7_2.cpp) | 扫描线  | [hdu 1828](https://acm.hdu.edu.cn/showproblem.php?pid=1828) |
+| 高级数据结构 | [4_5_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_5_1_1.cpp) | 分块算法  | [洛谷P3372](https://www.luogu.com.cn/problem/P3372) |
 
 
 ### 其他部分
