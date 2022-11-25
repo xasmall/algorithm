@@ -103,7 +103,12 @@
 | 所属部分 | 具体链接 | 分类 | 题目链接 |
 | :----    | :----     | :---- | :---- |
 | 动态规划 | [5_1_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_1_1_1.cpp) | 背包问题  | [hdu 2602](https://acm.hdu.edu.cn/showproblem.php?pid=2602) |
-| 高级数据结构 | [5_1_1_2.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_1_1_1.cpp) | 背包问题(记忆化搜索)  | [hdu 2602](https://acm.hdu.edu.cn/showproblem.php?pid=2602) |
+| 高级数据结构 | [5_1_1_2.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_1_1_2.cpp) | 背包问题(记忆化搜索)  | [hdu 2602](https://acm.hdu.edu.cn/showproblem.php?pid=2602) |
+| 动态规划 | [5_1_1_3.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_1_1_3.cpp) | 滚动数组  | [hdu 2602](https://acm.hdu.edu.cn/showproblem.php?pid=2602) |
+| 高级数据结构 | [5_2_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_2_1_1.cpp) | 分组背包  | [hdu 1712](https://acm.hdu.edu.cn/showproblem.php?pid=1712) |
+| 动态规划 | [5_2_2_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_2_2_1.cpp) | 多组背包(二进制优化)  | [洛谷P1776](https://www.luogu.com.cn/problem/P1776) |
+| 动态规划 | [5_2_2_2.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_2_2_2.cpp) | 多组背包(二进制优化)  | [洛谷P2347](https://www.luogu.com.cn/problem/P2347) |
+
 
 
 ### 其他部分

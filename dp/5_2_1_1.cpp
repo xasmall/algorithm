@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// hdu 1712 分组背包
 const int N = 110;
 int dp[N],w[N][N];
 
