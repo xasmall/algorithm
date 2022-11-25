@@ -1,6 +1,8 @@
 # algorithm
 
-希望可以把中级以下的算法部分学习完
+希望可以把中级以下的算法部分学习完<br>
+
+**欢迎你访问[我的博客](https://xasmall.github.io/)**
 
 下面的详细分类: <br>
 [1.基础数据结构](https://github.com/xasmall/algorithm/tree/master/basic-data-structure) <br>
@@ -94,6 +96,14 @@
 | 高级数据结构 | [4_3_7_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_7_1.cpp) | 扫描线  | [hdu 1542](https://acm.hdu.edu.cn/showproblem.php?pid=1542) |
 | 高级数据结构 | [4_3_7_2.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_3_7_2.cpp) | 扫描线  | [hdu 1828](https://acm.hdu.edu.cn/showproblem.php?pid=1828) |
 | 高级数据结构 | [4_5_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures/4_5_1_1.cpp) | 分块算法  | [洛谷P3372](https://www.luogu.com.cn/problem/P3372) |
+
+#### 动态规划
+<br>
+
+| 所属部分 | 具体链接 | 分类 | 题目链接 |
+| :----    | :----     | :---- | :---- |
+| 动态规划 | [5_1_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_1_1_1.cpp) | 背包问题  | [hdu 2602](https://acm.hdu.edu.cn/showproblem.php?pid=2602) |
+| 高级数据结构 | [5_1_1_2.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_1_1_1.cpp) | 背包问题(记忆化搜索)  | [hdu 2602](https://acm.hdu.edu.cn/showproblem.php?pid=2602) |
 
 
 ### 其他部分
