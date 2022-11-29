@@ -5,6 +5,11 @@ int n, dp[1<<20][21];
 int dist[21][21];
 //状态压缩dp
 
+/**
+ * 与位运算相关的运算符共有6种，&，|，^，~，>>，<<
+ * &符号，x&y 与运算
+*/
+
 int main(){
     memset(dp,0x3f,sizeof(dp));
     cin >> n;
