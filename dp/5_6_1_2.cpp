@@ -16,7 +16,7 @@ int main(){
     num[2*n+1] = num[1];
 
     for(int p=1;p<=n;p++){
-        for(int i=1,j=i+p;i<=2*n&&j<=2*n;i++,j=i+p){
+        for(int i=1,j=i+p;i<=2*n&&j<=2*n;i++,j++){
             for(int k=i;k<j;k++){
                 f[i][j] = max(f[i][j],f[i][k] + f[k+1][j]  + num[i] * num[k+1] * num[j+1]);
             }

@@ -17,7 +17,7 @@ int main(){
         s[i] = s[i-1] + num[i];
     }
     for(int p=1;p<n;p++){
-        for(int i=1,j=i+p;j<=2*n&&i<=2*n;i++,j=i+p){
+        for(int i=1,j=i+p;j<=2*n&&i<=2*n;i++,j++){
             f2[i][j] = 0x3f3f3f3f;
             for(int k=i;k<j;k++){
                 f1[i][j] = max(f1[i][j],f1[i][k] + f1[k+1][j] + d(i,j));
