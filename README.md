@@ -9,11 +9,13 @@
 [2.基础算法](https://github.com/xasmall/algorithm/tree/master/basic-algorithm) <br>
 [3.搜索](https://github.com/xasmall/algorithm/tree/master/search) <br>
 [4.高级数据结构](https://github.com/xasmall/algorithm/tree/master/advanced_data_structures)<br>
+[5.动态规划](https://github.com/xasmall/algorithm/tree/master/dp)<br>
 ---
 
 ### 其他部分
 [洛谷部分题解](https://github.com/xasmall/algorithm/tree/master/luogu)<br>
-[codeforces](https://github.com/xasmall/algorithm/tree/master/codeforces)
+[codeforces](https://github.com/xasmall/algorithm/tree/master/codeforces) <br>
+[蓝桥杯](https://github.com/xasmall/algorithm/tree/master/lanqiao)
 ---
 
 
@@ -109,7 +111,15 @@
 | 高级数据结构 | [5_2_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_2_1_1.cpp) | 分组背包  | [hdu 1712](https://acm.hdu.edu.cn/showproblem.php?pid=1712) |
 | 动态规划 | [5_2_2_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_2_2_1.cpp) | 多组背包(二进制优化)  | [洛谷P1776](https://www.luogu.com.cn/problem/P1776) |
 | 动态规划 | [5_2_2_2.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_2_2_2.cpp) | 多组背包(二进制优化)  | [洛谷P2347](https://www.luogu.com.cn/problem/P2347) |
-
+| 动态规划 | [5_2_2_5.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_2_2_5.cpp) | 线性dp  | [洛谷P2758](https://www.luogu.com.cn/problem/P2758) |
+| 动态规划 | [5_3_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_3_1_1.cpp) | 数位dp  | [洛谷P2602](https://www.luogu.com.cn/problem/P2602) |
+| 动态规划 | [5_4_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_4_1_1.cpp) | 状态压缩dp  | 无 |
+| 动态规划 | [5_5_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_5_1_1.cpp) | 状态压缩dp  | [洛谷P2602](https://www.luogu.com.cn/problem/P1896) |
+| 动态规划 | [5_6_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_6_1_1.cpp) | 区间dp  | [洛谷P1880](https://www.luogu.com.cn/problem/P1880) |
+| 动态规划 | [5_6_2_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_6_2_1.cpp) | 区间dp  | [洛谷P1063](https://www.luogu.com.cn/problem/P1063) |
+| 动态规划 | [5_6_3_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_6_3_1.cpp) | 区间dp  | [洛谷P4170](https://www.luogu.com.cn/problem/P4170) |
+| 动态规划 | [5_7_1_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_7_1_1.cpp) | 树形dp  | [洛谷P1352](https://www.luogu.com.cn/problem/P1352) |
+| 动态规划 | [5_7_2_1.cpp](https://github.com/xasmall/algorithm/tree/master/dp/5_7_1_1.cpp) | 树形dp  | [洛谷P2016](https://www.luogu.com.cn/problem/P2016) |
 
 
 ### 其他部分
