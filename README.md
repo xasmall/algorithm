@@ -1,4 +1,5 @@
 # algorithm
+
 [![Security Status](https://s.murphysec.com/badge/xasmall/algorithm.svg)](https://www.murphysec.com/p/xasmall/algorithm)
 
 希望可以把中级以下的算法部分学习完<br>
